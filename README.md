@@ -7,7 +7,12 @@ You can click the Preview link to take a look at your changes.
 # Hi there, I'm Juliana Dantas! 
 ## Welcome to my GitHub profile
 
-##I'm learning: 
+## About me:
+  
+  - Undergraduate Computer Engineering Student at UFPB (Universidade Federal da Paraíba);
+  - Currently, I'm an researcher in the field of Optimization and Operations Research;
+
+## I'm learning: 
 
 <img src="https://cdn.worldvectorlogo.com/logos/c.svg" width="40" height="40"/> <img src="https://cdn.worldvectorlogo.com/logos/linux-tux.svg" width="40" height="40"/> <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" width="40" height="40"/> <img src="https://cdn.worldvectorlogo.com/logos/latex.svg" width="40" height="40"/>
 
