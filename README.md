@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 ## About me:
   
   - Undergraduate Computer Engineering Student at UFPB (Universidade Federal da Paraíba);
-  - Currently, I'm an researcher in the field of Optimization and Operations Research;
+  - Currently, I'm an researcher in the field of Optimization and Operations Research
 
 ## I'm learning: 
 
