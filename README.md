@@ -9,7 +9,7 @@ You can click the Preview link to take a look at your changes.
 
 ##I'm learning: 
 
-<img src="https://cdn.worldvectorlogo.com/logos/c.svg" width="40" height="40"/> <img src="https://cdn.worldvectorlogo.com/logos/linux-tux.svg" width="40" height="40"/> <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" width="40" height="40"/> <img src="<img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" width="40" height="40"/> " width="40" height="40"/> 
+<img src="https://cdn.worldvectorlogo.com/logos/c.svg" width="40" height="40"/> <img src="https://cdn.worldvectorlogo.com/logos/linux-tux.svg" width="40" height="40"/> <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" width="40" height="40"/> <img src="https://cdn.worldvectorlogo.com/logos/latex.svg" width="40" height="40"/>
 
 <div>
 <a href="https://github.com/JulianaDantass">
