@@ -7,16 +7,16 @@ You can click the Preview link to take a look at your changes.
 # I'm Juliana! 
 ## Welcome to my GitHub profile
 
+## About me:
+  
+  - Undergraduate Computer Engineering Student at UFPB (Universidade Federal da Paraíba);
+  - Currently, I'm an researcher in the field of Optimization and Operations Research.
+
 <div>
 <a href="https://github.com/JulianaDantass">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulianaDantass&layout=compact&langs_count=7&theme=dracula"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JulianaDantass&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
-
-## About me:
-  
-  - Undergraduate Computer Engineering Student at UFPB (Universidade Federal da Paraíba);
-  - Currently, I'm an researcher in the field of Optimization and Operations Research.
 
 ## Technologies and Tools: 
 
