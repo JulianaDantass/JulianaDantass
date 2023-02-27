@@ -6,6 +6,6 @@ JulianaDantass/JulianaDantass is a ✨ special ✨ repository because its `READM
 You can click the Preview link to take a look at your changes.
 --->
 
-# Olá, me chamo SeuNomeAqui ! 
+# Olá, me chamo Juliana Dantas! 
 ## Bem vindo ao meu perfil GitHub 👋
 
