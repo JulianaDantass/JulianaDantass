@@ -7,6 +7,11 @@ You can click the Preview link to take a look at your changes.
 # I'm Juliana Dantas! 
 ## Welcome to my GitHub profile
 
+<div>
+<a href="https://github.com/JulianaDantass">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulianaDantass&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=JulianaDantass&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
 
 ## About me:
   
@@ -17,11 +22,7 @@ You can click the Preview link to take a look at your changes.
 
 <img src="https://cdn.worldvectorlogo.com/logos/c.svg" width="40" height="40"/> <img src="https://cdn.worldvectorlogo.com/logos/linux-tux.svg" width="40" height="40"/> <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" width="40" height="40"/> <img src="https://cdn.worldvectorlogo.com/logos/latex.svg" width="40" height="40"/> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="40" height="40"/>
 
-<div>
-<a href="https://github.com/JulianaDantass">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulianaDantass&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=JulianaDantass&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
+
 
 ## Contacts:
 
