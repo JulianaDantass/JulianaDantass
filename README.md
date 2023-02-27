@@ -4,6 +4,23 @@ JulianaDantass/JulianaDantass is a ✨ special ✨ repository because its `READM
 You can click the Preview link to take a look at your changes.
 --->
 
-# Olá, me chamo Juliana Dantas! 
-## Bem vindo ao meu perfil GitHub 👋
+# Hi there, I'm Juliana Dantas! 
+## Welcome to my GitHub profile
+
+##I'm learning: 
+
+<img src="https://cdn.worldvectorlogo.com/logos/c.svg" width="40" height="40"/> <img src="https://cdn.worldvectorlogo.com/logos/linux-tux.svg" width="40" height="40"/> <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" width="40" height="40"/> <img src="<img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" width="40" height="40"/> " width="40" height="40"/> 
+
+<div>
+<a href="https://github.com/JulianaDantass">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulianaDantass&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=JulianaDantass&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+
+## Contatos:
+
+<div>
+<a href = "mailto:julianadantas498@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/juliana-dantas-58b30724a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
 
