@@ -9,7 +9,7 @@ You can click the Preview link to take a look at your changes.
 
 ## About me:
   
-  - Undergraduate Computer Engineering Student at UFPB (Universidade Federal da Paraíba);
+  - Undergraduate Computer Engineering student at UFPB (Universidade Federal da Paraíba);
   - Currently, I'm a researcher in the field of Optimization and Operations Research.
   
 ##
